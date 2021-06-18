@@ -1,0 +1,40 @@
+[
+  {
+    "titleCategory": "Planche à Partager",
+    "title": "",
+    "description": "",
+    "price": ""
+  },
+  {
+    "title": "Assortiment de charcuteries et fromages",
+    "description": "jambon cru, rosette, pâté de campagne, camembert, emmental, cornichons",
+    "price": "11,90€"
+  },
+  {
+    "title": "Assortiment de tapas",
+    "description": "bouchées fromagères, falafel, tempura de légumes, churros d’oignon, queues de crevettes croustillantes",
+    "price": "11,90€"
+  },
+  {
+    "title": "",
+    "description": "",
+    "price": ""
+  },
+  {
+    "titleCategory": "Entrées",
+    "title": "",
+    "description": "",
+    "price": ""
+  },
+  {
+    "title": "Foie gras de canard entier",
+    "description": "",
+    "price": "8,90€"
+  },
+  {
+    "title": "Assiette du pêcheur",
+    "description": "crevettes, bulots, saumon fumé sauce mayonnaise",
+    "price": "10,90€"
+  },
+  { "title": "Tomate mozzarella", "description": "", "price": "5,90€" }
+]

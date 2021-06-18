@@ -1,0 +1,152 @@
+[
+  {
+    "titleCategory": "Nos spécialités",
+    "title": "",
+    "description": "",
+    "price": ""
+  },
+  {
+    "title": "Welsh complet",
+    "description": "pain, jambon blanc, moutarde, cheddar à la bière, oeuf",
+    "price": "14,90€"
+  },
+  {
+    "title": "Émincé de poulet maroilles",
+    "description": "",
+    "price": "14,50€"
+  },
+  { "title": "Potjevleesch", "description": "", "price": "14,90€" },
+  {
+    "title": "",
+    "description": "",
+    "price": ""
+  },
+  {
+    "titleCategory": "Nos viandes",
+    "title": "",
+    "description": "",
+    "price": ""
+  },
+  { "title": "Steack haché black Angus", "description": "", "price": "10,50€" },
+  {
+    "title": "Bavette d’aloyaux maturée",
+    "description": "",
+    "price": "13,50€"
+  },
+  { "title": "Noix d’entrecote angus", "description": "", "price": "" },
+  { "title": "Noix d'entrecote angus", "description": "", "price": "18,90€" },
+  { "title": "Pavé de boeuf", "description": "", "price": "16,90€" },
+  { "title": "Magret de canard entier", "description": "", "price": "19,90€" },
+  {
+    "title": "Ribs de porc mariné à la texane",
+    "description": "",
+    "price": "14,90€"
+  },
+  {
+    "title": "Tartare de boeuf charolais",
+    "description": "",
+    "price": "14,90€"
+  },
+  {
+    "title": "",
+    "description": "",
+    "price": ""
+  },
+  {
+    "titleCategory": "Côté Mer (*Poisson frais)",
+    "title": "",
+    "description": "",
+    "price": ""
+  },
+  {
+    "title": "Dos de cabillaud* sauce beurre blanc",
+    "description": "Sauce beurre blanc",
+    "price": "13,90€"
+  },
+  {
+    "title": "Filet de bar* sur  son lit de piperade",
+    "description": "",
+    "price": "15,90€"
+  },
+  { "title": "Fish and chips", "description": "", "price": "11,90€" },
+  {
+    "title": "",
+    "description": "",
+    "price": ""
+  },
+  {
+    "titleCategory": "Nos tagliatelles",
+    "title": "",
+    "description": "",
+    "price": ""
+  },
+  {
+    "title": "Tagliatelles méditerranéennes",
+    "description": "Piperade, jambon sec et copeaux de grana padano",
+    "price": "10,90€"
+  },
+  { "title": "Tagliatelles aux légumes", "description": "", "price": "8,90€" },
+  {
+    "title": "",
+    "description": "",
+    "price": ""
+  },
+  {
+    "titleCategory": "Les salades",
+    "title": "",
+    "description": "",
+    "price": ""
+  },
+  {
+    "title": "Grande caesar “crunchy”",
+    "description": "aiguillettes de poulet corn flakes, croutons, oignons frits, copeaux de grana padano, tomate, salade, sauce caesar",
+    "price": "12,90€"
+  },
+  {
+    "title": "Salade Loon-garden",
+    "description": "Saumon fumé, crevettes, rillettes ou terrine de poisson, moules, pomme de terre ou frites, salade ",
+    "price": "16,90€"
+  },
+  {
+    "title": "Terroir",
+    "description": "Foie gras de canard, tatin de foie gras, jambon sec, aiguillettes de canard, salade, frites ou pomme de terre au four",
+    "price": "17,90€"
+  },
+  {
+    "title": "",
+    "description": "",
+    "price": ""
+  },
+
+  {
+    "titleCategory": "Les Hamburgers",
+    "title": "",
+    "description": "",
+    "price": ""
+  },
+  {
+    "title": "le cht’i",
+    "description": "pain brioché, steak haché Black Angus, sauce maroilles, bacon, oignon, tomate, salade",
+    "price": "15,60€"
+  },
+  {
+    "title": "le loon-garden",
+    "description": "pain brioché, steak haché Black Angus, sauce red spyci, comté, salade, tomate, oignon",
+    "price": "13,10€"
+  },
+  {
+    "title": "le crousti-poulet",
+    "description": "pain pavot et sarrasin, aiguilettes de poulet corn flakes, sauce barbecue, cheddar, salade, tomate, oignon",
+    "price": "13,40€"
+  },
+  {
+    "title": "Le classique",
+    "description": "pain pavot et sarrasin, steak Black Angus, sauce burger, cheddar, salade, tomate, oignon",
+    "price": "11,50€"
+  },
+  {
+    "title": "Le Nordique",
+    "description": "pain brioché , saumon fumé, crème de ciboulette, salade, tomate, oignon frits",
+    "price": "15,60€"
+  }
+]

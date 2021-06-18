@@ -1,0 +1,13 @@
+[
+  {
+    "title": "Vins Rouge",
+    "quantities": ["75cl", "25cl"],
+    "product": [
+      {
+        "title": "Nom de la bouteille",
+        "description": "Description de la bouteille",
+        "prices": ["00,00€", "00,00€"]
+      }
+    ]
+  }
+]
