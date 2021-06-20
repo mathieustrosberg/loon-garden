@@ -42,7 +42,7 @@ const Home = () => {
           <img className="logo-text" alt="logo" src={logo} />
           <span className="title1">Bienvenu dans votre restaurant</span>
           <span className="title2">LOON GARDEN</span>
-          <span className="title3">RESTAURANT</span>
+          {/* <span className="title3">RESTAURANT</span> */}
         </div>
         <div className="btn-menu">
           <AnchorLink className="btn-style" href="#menu">
