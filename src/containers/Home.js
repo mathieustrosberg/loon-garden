@@ -1,13 +1,13 @@
-import logo from '../assets/images/logo.png';
+import logo from "../assets/images/logo.png";
 // import legumes1 from '../assets/images/legumes1.png';
 // import legumes2 from '../assets/images/legumes2.png';
 // import legumes3 from '../assets/images/legumes3.png';
 // import legumes4 from '../assets/images/legumes4.png';
 // import legumes5 from '../assets/images/legumes5.png';
 // import legumes6 from '../assets/images/legumes6.png';
-import AnchorLink from 'react-anchor-link-smooth-scroll';
+import AnchorLink from "react-anchor-link-smooth-scroll";
 
-import Nav from '../components/Nav';
+import Nav from "../components/Nav";
 // import { useEffect } from 'react';
 
 const Home = () => {
@@ -35,17 +35,17 @@ const Home = () => {
   //   return () => window.removeEventListener('mousemove', moveMouse);
   // }, []);
   return (
-    <div className='home'>
+    <div className="home">
       <Nav />
-      <div className='layout index'>
-        <div className='title-container'>
-          <img className='logo-text' alt='logo' src={logo} />
-          <span className='title1'>Bienvenue au</span>
-          <span className='title2'>LOON GARDEN</span>
-          <span className='title3'>RESTAURANT</span>
+      <div className="layout index">
+        <div className="title-container">
+          <img className="logo-text" alt="logo" src={logo} />
+          <span className="title1">Bienvenu dans votre restaurant</span>
+          <span className="title2">LOON GARDEN</span>
+          <span className="title3">RESTAURANT</span>
         </div>
-        <div className='btn-menu'>
-          <AnchorLink className='btn-style' href='#menu'>
+        <div className="btn-menu">
+          <AnchorLink className="btn-style" href="#menu">
             Decouvrir le menu
           </AnchorLink>
         </div>

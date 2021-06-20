@@ -9,7 +9,9 @@ const Informations = () => {
         <h1>Informations</h1>
         <div className="layout">
           <div className="container-info">
-            <span className="title-adresse">Nos horaires d'accueil</span>
+            <span className="title-adresse">
+              Nos horaires d'accueil du lundi au vendredi
+            </span>
             <div className="hour-container">
               {HourData.map((HourDetail, index) => {
                 return (
@@ -25,14 +27,13 @@ const Informations = () => {
             </div>
           </div>
           <div className="container-info">
-            <span className="title-adresse">Nos horaires d'accueil</span>
             <div className="hour-container">
               <div className="hour-wrapper">
-                <span className="title-info">Numéros de téléphone</span>
+                <span className="title-info">Numéro de téléphone</span>
                 <span className="title-hour">03 28 63 74 89</span>
                 <span className="title-info">Adresse</span>
                 <span className="title-hour">
-                  zi 25 rue Canton Cailloutis, 59279 LOON PLAGE
+                  ZI 25 rue Canton Cailloutis, 59279 LOON PLAGE
                 </span>
               </div>
             </div>

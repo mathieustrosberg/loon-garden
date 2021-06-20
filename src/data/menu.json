@@ -31,6 +31,11 @@
       },
       {
         "title": "",
+        "description": "Plat au choix: filet de poulet roti/ tagliatelles aux légumes ou plat du jour",
+        "prices": ["", "", ""]
+      },
+      {
+        "title": "",
         "description": "dessert au choix: glace 2 boules / mousse au chocolat / coupe glacée façon stracciatella / fromage blanc et son coulis / dessert du jour",
         "prices": ["", "", ""]
       }

@@ -217,7 +217,7 @@
       },
       {
         "title": "Kir Vin Blanc 12cl",
-        "description": "Cidre crème de cassis",
+        "description": "Vin blanc crème de cassis",
         "prices": ["", "", "3,50€"]
       },
       {
@@ -418,7 +418,7 @@
     "quantities": ["", "", "16cl"],
     "product": [
       {
-        "title": "Virgon Mojito",
+        "title": "Virgin Mojito",
         "description": "Sirop de rhum, feuilles de menthe fraiche, citron vert, perrier",
         "prices": ["", "", "5,50€"]
       },
