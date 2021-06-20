@@ -29,9 +29,11 @@ const Informations = () => {
             <div className="hour-container">
               <div className="hour-wrapper">
                 <span className="title-info">Numéros de téléphone</span>
-                <span className="title-hour">03 28 25 37 08</span>
+                <span className="title-hour">03 28 63 74 89</span>
                 <span className="title-info">Adresse</span>
-                <span className="title-hour">36 rue pigeon</span>
+                <span className="title-hour">
+                  zi 25 rue Canton Cailloutis, 59279 LOON PLAGE
+                </span>
               </div>
             </div>
           </div>

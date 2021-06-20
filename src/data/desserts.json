@@ -1,172 +1,155 @@
 [
   {
-    "title": "Coupe de fruits frais",
-    "description": "",
-    "price": "4,90€"
+    "title": "Les Desserts",
+    "quantities": ["", ""],
+    "product": [
+      {
+        "title": "Coupe de fruits frais",
+        "description": "",
+        "prices": ["", "", "4,90€"]
+      },
+      {
+        "title": "Mousse au chocolat",
+        "description": "",
+        "prices": ["", "", "4,30€"]
+      },
+      {
+        "title": "Crème Brulée",
+        "description": "",
+        "prices": ["", "", "4,90€"]
+      },
+      {
+        "title": "Fromage blanc et son coulis",
+        "description": "Miel, sucre, caramel, coulis framboise",
+        "prices": ["", "", "3,50€"]
+      }
+    ]
   },
   {
-    "title": "Mousse au chocolat",
-    "description": "",
-    "price": "4,30€"
+    "title": "Les Glaces",
+    "quantities": ["", ""],
+    "product": [
+      {
+        "title": "Dame Blanche",
+        "description": "",
+        "prices": ["", "", "6,90€"]
+      },
+      {
+        "title": "Chocolat ou Café Liégeois",
+        "description": "",
+        "prices": ["", "", "6,90€"]
+      },
+      {
+        "title": "Banana Split",
+        "description": "",
+        "prices": ["", "", "6,90€"]
+      },
+      {
+        "title": "Coupe Colonel",
+        "description": "2 boules citron, 4cl de vodka",
+        "prices": ["", "", "6,90€"]
+      },
+      {
+        "title": "Coupe Loon-Garden",
+        "description": "1 boule vanille, 1 boule spéculoos, 1 boule chocolat, sauce caramel beurre salé, crème fouettée et sa gaufre",
+        "prices": ["", "", "6,90€"]
+      },
+      {
+        "title": "Maxi chou profiterole",
+        "description": "Glace vanille, sauce chocolat et sa crème fouettée",
+        "prices": ["", "", "6,90€"]
+      },
+      {
+        "title": "Crousty frutti",
+        "description": "2 boules framboise, 1 boule mascarpone, crumble noisettes  et coulis fruit framboise",
+        "prices": ["", "", "6,90€"]
+      },
+      {
+        "title": "Crispy Oreo",
+        "description": "2 boules chocolat, 1 boule vanille, coulis de chocolat et brisure de biscuit Oréo",
+        "prices": ["", "", "6,90€"]
+      },
+      {
+        "title": "Glace 3 Boules",
+        "description": "",
+        "prices": ["", "", "4,70€"]
+      },
+      {
+        "title": "Glace 2 Boules",
+        "description": "",
+        "prices": ["", "", "3,80€"]
+      },
+      {
+        "title": "",
+        "description": "Parfum aux choix : vanille / pistache / chocolat / café / noix de coco / spéculoos / rhum raisin",
+        "prices": ["", "", ""]
+      },
+      {
+        "title": "",
+        "description": "Sorbet au choix: fraise / citron / poire",
+        "prices": ["", "", ""]
+      }
+    ]
   },
   {
-    "title": "Crème Brulée",
-    "description": "",
-    "price": "4,90€"
-  },
-  {
-    "title": "Fromage blanc et son coulis",
-    "description": "Miel, sucre, caramel, coulis framboise",
-    "price": "3,50€"
-  },
-  {
-    "title": "",
-    "description": "",
-    "price": ""
-  },
-  {
-    "titleCategory": "Les Glaces",
-    "description": "",
-    "price": ""
-  },
-  {
-    "title": "Dame blanche",
-    "description": "",
-    "price": "6,90€"
-  },
-  {
-    "title": "Chocolat ou Café Liégeois",
-    "description": "",
-    "price": "6,90€"
-  },
-  {
-    "title": "Banana Split",
-    "description": "",
-    "price": "6,90€"
-  },
-  {
-    "title": "Coupe Colonel",
-    "description": "2 boules citron, 4cl de vodka",
-    "price": "6,90€"
-  },
-  {
-    "title": "Coupe Loon-Garden",
-    "description": "1 boule vanille, 1 boule spéculoos, 1 boule chocolat, sauce caramel beurre salé, crème fouettée et sa gaufre",
-    "price": "6,90€"
-  },
-  {
-    "title": "Maxi chou profiterole",
-    "description": "Glace vanille, sauce chocolat et sa crème fouettée",
-    "price": "6,90€"
-  },
-  {
-    "title": "Crousty frutti",
-    "description": "2 boules framboise, 1 boule mascarpone, crumble noisettes  et coulis fruit framboise",
-    "price": "6,90€"
-  },
-  {
-    "title": "Crispy Oreo",
-    "description": "2 boules chocolat, 1 boule vanille, coulis de chocolat et brisure de biscuit Oréo",
-    "price": "6,90€"
-  },
-  {
-    "title": "Glace 2 Boules",
-    "description": "",
-    "price": "3,80€"
-  },
-  {
-    "title": "Glace 3 Boules",
-    "description": "",
-    "price": "4,70€"
-  },
-  {
-    "title": "",
-    "description": "Parfum aux choix : vanille / pistache / chocolat / café / noix de coco / spéculoos / rhum raisin",
-    "price": ""
-  },
-  {
-    "title": "",
-    "description": "Sorbet au choix: fraise / citron / poire",
-    "price": ""
-  },
-  {
-    "title": "",
-    "description": "",
-    "price": ""
-  },
-  {
-    "title": "",
-    "description": "",
-    "price": ""
-  },
-  {
-    "titleCategory": "Les Cafés",
-    "description": "",
-    "price": ""
-  },
-  {
-    "title": "Colombie",
-    "description": "100% Arabica, Harmonieux et suave",
-    "price": "2,50€"
-  },
-  {
-    "title": "Inde",
-    "description": "90% Arabica, Délicatement caramélisé",
-    "price": "2,50€"
-  },
-  {
-    "title": "Bresil",
-    "description": "100% Arabica, Doux et onctueux",
-    "price": "2,50€"
-  },
-  {
-    "title": "Ethiopie",
-    "description": "100% Arabica, Long en bouche, arômes sauvages et intenses",
-    "price": "2,50€"
-  },
-  {
-    "title": "Décaféiné",
-    "description": "",
-    "price": "1,90€"
-  },
-  {
-    "title": "Café viennois",
-    "description": "",
-    "price": "3,00€"
-  },
-  {
-    "title": "Café ou thé gourmand",
-    "description": "accompagné de ses 3 gourmandises",
-    "price": "6,90€"
-  },
-  {
-    "title": "Latte Machiato",
-    "description": "saveur noisette / vanille / spéculos ",
-    "price": "4,50€"
-  },
-  {
-    "title": "Thé ou infusion",
-    "description": "saveur noisette / vanille / spéculos ",
-    "price": "2,50€"
-  },
-  {
-    "title": "Hot Coffee",
-    "description": "",
-    "price": "7,00€"
-  },
-  {
-    "title": "",
-    "description": "",
-    "price": ""
-  },
-  {
-    "title": "",
-    "description": "",
-    "price": ""
-  },
-  {
-    "title": "Les digestifs 4cl",
-    "description": "",
-    "price": "5,40€"
+    "title": "Les Cafés",
+    "quantities": ["", ""],
+    "product": [
+      {
+        "title": "Colombie",
+        "description": "100% Arabica, Harmonieux et suave",
+        "prices": ["", "", "2,50€"]
+      },
+      {
+        "title": "Inde",
+        "description": "90% Arabica, Délicatement caramélisé",
+        "prices": ["", "", "2,50€"]
+      },
+      {
+        "title": "Bresil",
+        "description": "100% Arabica, Doux et onctueux",
+        "prices": ["", "", "2,50€"]
+      },
+      {
+        "title": "Ethiopie",
+        "description": "100% Arabica, Long en bouche, arômes sauvages et intenses",
+        "prices": ["", "", "2,50€"]
+      },
+      {
+        "title": "Décaféiné",
+        "description": "",
+        "prices": ["", "", "1,90€"]
+      },
+      {
+        "title": "Café ou thé gourmand",
+        "description": "accompagné de ses 3 gourmandises",
+        "prices": ["", "", "6,90€"]
+      },
+      {
+        "title": "Latte Machiato",
+        "description": "Latte Machiato",
+        "prices": ["", "", "4,50€"]
+      },
+      {
+        "title": "Thé ou infusion",
+        "description": "",
+        "prices": ["", "", "2,50€"]
+      },
+      {
+        "title": "Hot Coffee",
+        "description": "",
+        "prices": ["", "", "7,00€"]
+      },
+      {
+        "title": "",
+        "description": "",
+        "prices": ["", "", ""]
+      },
+      {
+        "title": "Les Digestifs 4cl",
+        "description": "",
+        "prices": ["", "", "5,40€"]
+      }
+    ]
   }
 ]

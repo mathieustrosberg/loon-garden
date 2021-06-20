@@ -1,128 +1,101 @@
 [
   {
-    "titleCategory": "Menu du Midi",
-    "title": "",
-    "description": "Uniquement le midi du lundi au vendredi sauf jours fériés",
-    "price": ""
+    "title": "Menu du Midi",
+    "quantities": ["", "", ""],
+    "product": [
+      {
+        "title": "Plat et dessert",
+        "description": "Jambon grillé / café ou thé accompagné d’une gourmandise",
+        "prices": ["", "", "8,50€"]
+      }
+    ]
   },
   {
-    "title": "Plat et dessert",
-    "description": "Jambon grillé / café ou thé accompagné d’une gourmandise",
-    "price": "8,50€"
+    "title": "Menu Garden",
+    "quantities": ["", "", ""],
+    "product": [
+      {
+        "title": "entrée, plat et dessert",
+        "description": "",
+        "prices": ["", "", "15,50€"]
+      },
+      {
+        "title": "plat et dessert",
+        "description": "",
+        "prices": ["", "", "10,95€"]
+      },
+      {
+        "title": "",
+        "description": "entrée au choix: tomate mozzarella / rillettes ou terrine de poisson",
+        "prices": ["", "", ""]
+      },
+      {
+        "title": "",
+        "description": "dessert au choix: glace 2 boules / mousse au chocolat / coupe glacée façon stracciatella / fromage blanc et son coulis / dessert du jour",
+        "prices": ["", "", ""]
+      }
+    ]
   },
   {
-    "title": "",
-    "description": "",
-    "price": ""
+    "title": "Menu Loon-Garden",
+    "quantities": ["", "", ""],
+    "product": [
+      {
+        "title": "entrée, plat et dessert",
+        "description": "",
+        "prices": ["", "", "19,90€"]
+      },
+      {
+        "title": "entrée, plat",
+        "description": "",
+        "prices": ["", "", "16,90€"]
+      },
+      {
+        "title": "plat et dessert",
+        "description": "",
+        "prices": ["", "", "16,90€"]
+      },
+      {
+        "title": "",
+        "description": "entrée au choix: petite salade caesar / toast de chèvre / assiette de bulots et crevettes / fois gras suppl. 3€",
+        "prices": ["", "", ""]
+      },
+      {
+        "title": "",
+        "description": "plat au choix: bavette d’aloyaux maturée / demi magret de canard / la pêche du jour / classique burger suppl. 3€",
+        "prices": ["", "", ""]
+      },
+      {
+        "title": "",
+        "description": "dessert au choix: duo de fromage / crème brulée à la vanille bourbon / glace 3 boules / tiramisu / coupe de fruits frais / autre dessert à la carte, suppl 2€ hors hot coffee",
+        "prices": ["", "", ""]
+      }
+    ]
   },
   {
-    "titleCategory": "Menu Garden",
-    "title": "",
-    "description": "Le midi et le soir du lundi au vendredi sauf jours fériés",
-    "price": ""
-  },
-  {
-    "title": "entrée, plat et dessert",
-    "description": "",
-    "price": "15,50€"
-  },
-  {
-    "title": "plat et dessert",
-    "description": "",
-    "price": "10,95€"
-  },
-  {
-    "title": "",
-    "description": "entrée au choix: tomate mozzarella / rillettes ou terrine de poisson",
-    "price": ""
-  },
-  {
-    "title": "",
-    "description": "plat au choix: filet de poulet roti / tagliatelles aux légumes ou plat du jour",
-    "price": ""
-  },
-  {
-    "title": "",
-    "description": "dessert au choix: glace 2 boules / mousse au chocolat / coupe glacée façon stracciatella / fromage blanc et son coulis / dessert du jour",
-    "price": ""
-  },
-  {
-    "title": "",
-    "description": "",
-    "price": ""
-  },
-  {
-    "titleCategory": "Menu Loon-Garden",
-    "title": "",
-    "description": "",
-    "price": ""
-  },
-  {
-    "titleCategory": "",
-    "title": "entrée, plat et dessert",
-    "description": "",
-    "price": "19,90€"
-  },
-  {
-    "titleCategory": "",
-    "title": "entrée, plat",
-    "description": "",
-    "price": "16,90€"
-  },
-  {
-    "titleCategory": "",
-    "title": "plat et dessert",
-    "description": "",
-    "price": "16,90€"
-  },
-  {
-    "title": "",
-    "description": "entrée au choix: petite salade caesar / toast de chèvre / assiette de bulots et crevettes / fois gras suppl. 3€",
-    "price": ""
-  },
-  {
-    "title": "",
-    "description": "plat au choix: bavette d’aloyaux maturée / demi magret de canard / la pêche du jour / classique burger suppl. 3€",
-    "price": ""
-  },
-  {
-    "title": "",
-    "description": "dessert au choix: duo de fromage / crème brulée à la vanille bourbon / glace 3 boules / tiramisu / coupe de fruits frais / autre dessert à la carte, suppl 2€ hors hot coffee",
-    "price": ""
-  },
-  {
-    "title": "",
-    "description": "",
-    "price": ""
-  },
-  {
-    "titleCategory": "Menu Loon-Kids (jusqu'a 8 ans)",
-    "title": "",
-    "description": "",
-    "price": ""
-  },
-  {
-    "titleCategory": "",
-    "title": "plat et dessert",
-    "description": "",
-    "price": "4,95€"
-  },
-  {
-    "titleCategory": "",
-    "title": "",
-    "description": "plat au choix: burger / aiguillettes de poulet corn flakes / aiguillette de fish",
-    "price": ""
-  },
-  {
-    "titleCategory": "",
-    "title": "",
-    "description": "dessert au  choix: pompote / glace et ses bonbons (fraises, smarties, brisure de biscuit oréo) / cookie au 3 chocolats",
-    "price": ""
-  },
-  {
-    "titleCategory": "",
-    "title": "",
-    "description": "supp. boisson (1,50€) coca 25cl / oasis 25cl / diabolo 25cl / sirop à l’eau",
-    "price": ""
+    "title": "Menu Loon-Kids (jusqu'a 8 ans)",
+    "quantities": ["", "", ""],
+    "product": [
+      {
+        "title": "plat et dessert",
+        "description": "",
+        "prices": ["", "", "4,95€"]
+      },
+      {
+        "title": "",
+        "description": "plat au choix: burger / aiguillettes de poulet corn flakes / aiguillette de fish",
+        "prices": ["", "", ""]
+      },
+      {
+        "title": "",
+        "description": "dessert au  choix: pompote / glace et ses bonbons (fraises, smarties, brisure de biscuit oréo) / cookie au 3 chocolats",
+        "prices": ["", "", ""]
+      },
+      {
+        "title": ["", "", ""],
+        "description": "supp. boisson (1,50€) coca 25cl / oasis 25cl / diabolo 25cl / sirop à l’eau",
+        "prices": ["", "", ""]
+      }
+    ]
   }
 ]
