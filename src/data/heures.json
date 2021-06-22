@@ -1,20 +1,14 @@
 [
   {
     "id": 1,
-    "day": "Lundi - Jeudi",
+    "day": "Lundi - Vendredi",
     "hourLunch": "11:45 - 14:00",
     "hourDinner": "19:00 - 21:30"
   },
   {
     "id": 2,
-    "day": "Vendredi - Samedi",
+    "day": "Samedi - Dimanche",
     "hourLunch": "12:00 - 14:00",
     "hourDinner": "19:00 - 22:00"
-  },
-  {
-    "id": 3,
-    "day": "Dimanche",
-    "hourLunch": "12:00 - 14:30",
-    "hourDinner": "19:00 - 21:30"
   }
 ]

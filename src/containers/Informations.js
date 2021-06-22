@@ -9,9 +9,7 @@ const Informations = () => {
         <h1>Informations</h1>
         <div className="layout">
           <div className="container-info">
-            <span className="title-adresse">
-              Nos horaires d'accueil du lundi au vendredi
-            </span>
+            <span className="title-adresse">Nos horaires d'accueil</span>
             <div className="hour-container">
               {HourData.map((HourDetail, index) => {
                 return (
