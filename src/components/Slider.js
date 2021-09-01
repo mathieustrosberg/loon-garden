@@ -12,6 +12,7 @@ import img7 from "../assets/images/7.jpg";
 import img8 from "../assets/images/8.jpg";
 import img9 from "../assets/images/9.jpg";
 import img10 from "../assets/images/10.jpg";
+import img11 from "../assets/images/11.png";
 
 const Slider = () => {
   const AutoplaySlider = withAutoplay(AwesomeSlider);
@@ -34,6 +35,7 @@ const Slider = () => {
         <div data-src={img8} />
         <div data-src={img9} />
         <div data-src={img10} />
+        <div data-src={img11} />
       </AutoplaySlider>
     </div>
   );
