@@ -402,6 +402,7 @@ button {
 .title-adresse {
   display: flex;
   justify-content: center;
+  text-align: center;
   font-size: clamp(1rem, 2.5vw, 1.5rem);
   margin: clamp(10px, 2.5vw, 50px);
 }

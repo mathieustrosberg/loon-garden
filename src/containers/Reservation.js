@@ -3,10 +3,8 @@ const Reservation = () => {
     <div id="reservation" className="layout">
       <h1>Réservation en ligne</h1>
       <p>
-        Nous acceptons un nombre limité de réservations <br />
-        jusqu’à un mois à l’avance pour des soirées de groupes
-        <br />
-        comptant jusqu’à 6 personnes.
+        Nous acceptons un nombre ilimité de réservations <br />
+        jusqu’à un mois à l’avance pour des soirées de groupes.
       </p>
       <div className="reservation-wrapper ">
         <iframe
