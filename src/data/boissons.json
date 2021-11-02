@@ -295,12 +295,12 @@
   },
   {
     "title": "Le Cidre",
-    "quantities": ["12cl", "27,5cl", "75cl"],
+    "quantities": ["", "12cl", "75cl"],
     "product": [
       {
         "title": "Cidre Bolée D'Amor Brut ou Doux",
         "description": "",
-        "prices": ["3,90€", "", "7,90€"]
+        "prices": ["", "3,90€", "7,90€"]
       }
     ]
   },
