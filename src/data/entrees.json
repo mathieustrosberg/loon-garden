@@ -1,17 +1,17 @@
 [
   {
-    "title": "Planche à Partager",
+    "title": "Planche à Partager (Taille L ou XL)",
     "quantities": ["", "", ""],
     "product": [
       {
         "title": "Assortiment de charcuteries et fromages",
-        "description": "jambon cru, rosette, pâté de campagne, camembert, emmental, cornichons",
-        "prices": ["", "", "11,90€"]
+        "description": "",
+        "prices": ["", "6,90€", "12,90€"]
       },
       {
         "title": "Assortiment de tapas",
-        "description": "bouchées fromagères, falafel, tempura de légumes, churros d’oignon, queues de crevettes croustillante",
-        "prices": ["", "", "11,90€"]
+        "description": "",
+        "prices": ["", "6,90€", "12,90€"]
       }
     ]
   },
