@@ -4,9 +4,9 @@
     "quantities": ["", ""],
     "product": [
       {
-        "title": "Coupe de fruits frais",
-        "description": "",
-        "prices": ["", "", "4,90€"]
+        "title": "Fromage blanc et son coulis",
+        "description": "Miel, sucre, caramel, coulis framboise",
+        "prices": ["", "", "3,50€"]
       },
       {
         "title": "Mousse au chocolat",
@@ -14,14 +14,24 @@
         "prices": ["", "", "4,30€"]
       },
       {
+        "title": "Chti'ramisu",
+        "description": "",
+        "prices": ["", "", "5,50€"]
+      },
+      {
         "title": "Crème Brulée",
         "description": "",
         "prices": ["", "", "4,90€"]
       },
       {
-        "title": "Fromage blanc et son coulis",
-        "description": "Miel, sucre, caramel, coulis framboise",
-        "prices": ["", "", "3,50€"]
+        "title": "Gaufre et sa boule de glace",
+        "description": "",
+        "prices": ["", "", "5,90€"]
+      },
+      {
+        "title": "Moelleux et sa boule de glace vanille",
+        "description": "",
+        "prices": ["", "", "6,90€"]
       }
     ]
   },
@@ -30,7 +40,7 @@
     "quantities": ["", ""],
     "product": [
       {
-        "title": "Dame Blanche",
+        "title": "Banana Split",
         "description": "",
         "prices": ["", "", "6,90€"]
       },
@@ -40,8 +50,8 @@
         "prices": ["", "", "6,90€"]
       },
       {
-        "title": "Banana Split",
-        "description": "",
+        "title": "Coupe Loon-Garden",
+        "description": "1 boule vanille, 1 boule caramel, 1 boule chocolat, sauce caramel beurre salé, crème fouettée et un demi cookie",
         "prices": ["", "", "6,90€"]
       },
       {
@@ -50,8 +60,13 @@
         "prices": ["", "", "6,90€"]
       },
       {
-        "title": "Coupe Loon-Garden",
-        "description": "1 boule vanille, 1 boule spéculoos, 1 boule chocolat, sauce caramel beurre salé, crème fouettée et sa gaufre",
+        "title": "Crousty frutti",
+        "description": "2 boules framboise, 1 boule mascarpone, crumble noisettes  et coulis fruit framboise",
+        "prices": ["", "", "6,90€"]
+      },
+      {
+        "title": "Dame Blanche",
+        "description": "",
         "prices": ["", "", "6,90€"]
       },
       {
@@ -60,14 +75,9 @@
         "prices": ["", "", "6,90€"]
       },
       {
-        "title": "Crousty frutti",
-        "description": "2 boules framboise, 1 boule mascarpone, crumble noisettes  et coulis fruit framboise",
-        "prices": ["", "", "6,90€"]
-      },
-      {
-        "title": "Crispy Oreo",
-        "description": "2 boules chocolat, 1 boule vanille, coulis de chocolat et brisure de biscuit Oréo",
-        "prices": ["", "", "6,90€"]
+        "title": "Glace 2 Boules",
+        "description": "",
+        "prices": ["", "", "3,80€"]
       },
       {
         "title": "Glace 3 Boules",
@@ -75,18 +85,13 @@
         "prices": ["", "", "4,70€"]
       },
       {
-        "title": "Glace 2 Boules",
-        "description": "",
-        "prices": ["", "", "3,80€"]
-      },
-      {
         "title": "",
-        "description": "Parfum aux choix : vanille / pistache / chocolat / café / noix de coco / spéculoos / rhum raisin",
+        "description": "Parfum aux choix : vanille / pistache / chocolat / café / noix de coco / rhum raisin / fraise / caramel beurre salé",
         "prices": ["", "", ""]
       },
       {
         "title": "",
-        "description": "Sorbet au choix: fraise / citron / poire",
+        "description": "Sorbet au choix: framboise / citron / poire / passion",
         "prices": ["", "", ""]
       }
     ]
@@ -96,29 +101,39 @@
     "quantities": ["", ""],
     "product": [
       {
-        "title": "Colombie",
-        "description": "100% Arabica, Harmonieux et suave",
-        "prices": ["", "", "2,50€"]
+        "title": "Café ou décafeiné",
+        "description": "",
+        "prices": ["", "", "1,90€"]
       },
       {
-        "title": "Inde",
-        "description": "90% Arabica, Délicatement caramélisé",
-        "prices": ["", "", "2,50€"]
+        "title": "Colombie",
+        "description": "100% Arabica, Harmonieux et suave",
+        "prices": ["", "", "2,90€"]
+      },
+      {
+        "title": "Guatemala",
+        "description": "100% Arabica, Rond et suave",
+        "prices": ["", "", "2,90€"]
       },
       {
         "title": "Brésil",
         "description": "100% Arabica, Doux et onctueux",
-        "prices": ["", "", "2,50€"]
+        "prices": ["", "", "2,90€"]
       },
       {
         "title": "Ethiopie",
         "description": "100% Arabica, Long en bouche, arômes sauvages et intenses",
-        "prices": ["", "", "2,50€"]
+        "prices": ["", "", "2,90€"]
       },
       {
-        "title": "Décaféiné",
+        "title": "Inde",
+        "description": "90% Arabica, Délicatement caramélisé",
+        "prices": ["", "", "2,90€"]
+      },
+      {
+        "title": "Cappuccino",
         "description": "",
-        "prices": ["", "", "1,90€"]
+        "prices": ["", "", "3€"]
       },
       {
         "title": "Café ou thé gourmand",
@@ -127,13 +142,13 @@
       },
       {
         "title": "Latte Macchiato",
-        "description": "Saveur noisette, vanille ou spéculos",
-        "prices": ["", "", "4,50€"]
+        "description": "Saveur noisette, vanille ou spéculos, pain d'épice, caramel, tiramisu",
+        "prices": ["", "", "4,10€"]
       },
       {
         "title": "Thé ou infusion",
         "description": "",
-        "prices": ["", "", "2,50€"]
+        "prices": ["", "", "2,90€"]
       },
       {
         "title": "Hot Coffee",
