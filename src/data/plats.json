@@ -4,19 +4,29 @@
     "quantities": ["", "", ""],
     "product": [
       {
-        "title": "Welsh complet",
-        "description": "pain, jambon blanc, moutarde, cheddar à la bière, oeuf",
-        "prices": ["", "", "14,90€"]
+        "title": "Chti'flette",
+        "description": "",
+        "prices": ["", "", "15,90€"]
       },
       {
         "title": "Émincé de poulet maroilles",
         "description": "",
-        "prices": ["", "", "14,50€"]
+        "prices": ["", "", "15,50€"]
       },
       {
         "title": "Potjevleesch",
         "description": "",
-        "prices": ["", "", "14,90€"]
+        "prices": ["", "", "15,90€"]
+      },
+      {
+        "title": "Carbonade flamande",
+        "description": "",
+        "prices": ["", "", "16,90€"]
+      },
+      {
+        "title": "Welsh complet",
+        "description": "pain, jambon blanc, moutarde, cheddar à la bière, oeuf",
+        "prices": ["", "", "16,90€"]
       }
     ]
   },
@@ -32,17 +42,27 @@
       {
         "title": "Bavette d’aloyaux maturée",
         "description": "",
-        "prices": ["", "", "13,50€"]
+        "prices": ["", "", "14,50€"]
       },
       {
-        "title": "Noix d'entrecote angus",
+        "title": "Andouilette",
         "description": "",
-        "prices": ["", "", "18,90€"]
+        "prices": ["", "", "14,90€"]
+      },
+      {
+        "title": "Tartare de boeuf charolais",
+        "description": "",
+        "prices": ["", "", "15,50€"]
       },
       {
         "title": "Pavé de boeuf",
         "description": "",
-        "prices": ["", "", "16,90€"]
+        "prices": ["", "", "17,50€"]
+      },
+      {
+        "title": "Noix d'entrecôte angus 300g",
+        "description": "",
+        "prices": ["", "", "19,50€"]
       },
       {
         "title": "Magret de canard entier",
@@ -50,14 +70,9 @@
         "prices": ["", "", "19,90€"]
       },
       {
-        "title": "Ribs de porc mariné à la texane",
+        "title": "Côte de boeuf 400g",
         "description": "",
-        "prices": ["", "", "14,90€"]
-      },
-      {
-        "title": "Tartare de boeuf charolais",
-        "description": "",
-        "prices": ["", "", "14,90€"]
+        "prices": ["", "", "24,90€"]
       }
     ]
   },
@@ -66,35 +81,24 @@
     "quantities": ["", "", ""],
     "product": [
       {
-        "title": "Dos de cabillaud*",
-        "description": "Sauce beurre blanc",
+        "title": "Fish and chips",
+        "description": "",
+        "prices": ["", "", "12,50€"]
+      },
+      {
+        "title": "Pavé de saumon aneth",
+        "description": "",
         "prices": ["", "", "13,90€"]
       },
       {
-        "title": "Filet de bar* sur  son lit de piperade",
+        "title": "Dos de cabillaud* Sauce beurre blanc",
+        "description": "",
+        "prices": ["", "", "14,50€"]
+      },
+      {
+        "title": "Pennes aux 2 saumons*",
         "description": "",
         "prices": ["", "", "15,90€"]
-      },
-      {
-        "title": "Fish and chips",
-        "description": "",
-        "prices": ["", "", "11,90€"]
-      }
-    ]
-  },
-  {
-    "title": "Nos tagliatelles",
-    "quantities": ["", "", ""],
-    "product": [
-      {
-        "title": "Tagliatelles méditerranéennes",
-        "description": "Piperade, jambon sec et copeaux de grana padano",
-        "prices": ["", "", "10,90€"]
-      },
-      {
-        "title": "Tagliatelles aux légumes",
-        "description": "",
-        "prices": ["", "", "8,90€"]
       }
     ]
   },
@@ -105,16 +109,21 @@
       {
         "title": "Grande caesar “crunchy”",
         "description": "aiguillettes de poulet corn flakes, croutons, oignons frits, copeaux de grana padano, tomate, salade, sauce caesar",
-        "prices": ["", "", "12,90€"]
+        "prices": ["", "", "13,90€"]
+      },
+      {
+        "title": "Grande Paysanne",
+        "description": "oeuf, tomates, salades, lardons, croûtons, emmental, oignons rouge",
+        "prices": ["", "", "13,90€"]
       },
       {
         "title": "Loon-garden",
-        "description": "Saumon fumé, crevettes, rillettes ou terrine de poisson, moules, pomme de terre ou frites, salade",
-        "prices": ["", "", "16,90€"]
+        "description": "Saumon fumé, crevettes, surimi, beignets de poisson, hareng fumé, pomme de terre ou frites, salade",
+        "prices": ["", "", "15,50€"]
       },
       {
         "title": "Terroir",
-        "description": "Foie gras de canard, tatin de foie gras, jambon sec, aiguillettes de canard, salade, frites ou pomme de terre au four",
+        "description": "Foie gras de canard, jambon sec, magret de canard fumé, salade, frites ou pommes de terre grenaille",
         "prices": ["", "", "17,90€"]
       }
     ]
@@ -124,9 +133,9 @@
     "quantities": ["", "", ""],
     "product": [
       {
-        "title": "le ch'ti",
-        "description": "pain brioché, steak haché Black Angus, sauce maroilles, bacon, oignon, tomate, salade",
-        "prices": ["", "", "15,60€"]
+        "title": "Le classique",
+        "description": "pain pavot et sarrasin, steak Black Angus, sauce burger, cheddar, salade, tomate, oignon",
+        "prices": ["", "", "11,50€"]
       },
       {
         "title": "le loon-garden",
@@ -136,17 +145,33 @@
       {
         "title": "le crousti-poulet",
         "description": "pain pavot et sarrasin, aiguilettes de poulet corn flakes, sauce barbecue, cheddar, salade, tomate, oignon",
-        "prices": ["", "", "13,40€"]
+        "prices": ["", "", "13,90€"]
       },
       {
-        "title": "Le classique",
-        "description": "pain pavot et sarrasin, steak Black Angus, sauce burger, cheddar, salade, tomate, oignon",
-        "prices": ["", "", "11,50€"]
+        "title": "Le Montagnard",
+        "description": "pain brioché , steak haché Black Angus, fromage fondu, bacon, salade, tomate, oignon",
+        "prices": ["", "", "15,50€"]
       },
       {
-        "title": "Le Nordique",
-        "description": "pain brioché , saumon fumé, crème de ciboulette, salade, tomate, oignon frits",
+        "title": "le ch'ti",
+        "description": "pain brioché, steak haché Black Angus, sauce maroilles, bacon, oignon, tomate, salade",
         "prices": ["", "", "15,60€"]
+      }
+    ]
+  },
+  {
+    "title": "Les fondues de fromages",
+    "quantities": ["", "", ""],
+    "product": [
+      {
+        "title": "Fondue camembert ",
+        "description": "Assortiment de charcuterie, salade, frites ou pommes de terre grenaille",
+        "prices": ["", "", "15,90€"]
+      },
+      {
+        "title": "Fondue au reblochon",
+        "description": "Assortiment de charcuterie, salade, frites ou pommes de terre grenaille",
+        "prices": ["", "", "15,90€"]
       }
     ]
   }

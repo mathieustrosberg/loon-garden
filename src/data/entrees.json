@@ -12,6 +12,11 @@
         "title": "Assortiment de tapas",
         "description": "",
         "prices": ["", "6,90€", "12,90€"]
+      },
+      {
+        "title": "Saucisson sec entier et emmental",
+        "description": "",
+        "prices": ["", "", "13,90€"]
       }
     ]
   },
@@ -20,19 +25,29 @@
     "quantities": ["", "", ""],
     "product": [
       {
-        "title": "Foie gras de canard entier",
+        "title": "Petite salade caesar",
+        "description": "",
+        "prices": ["", "", "5,90€"]
+      },
+      {
+        "title": "Petite salade paysanne",
+        "description": "",
+        "prices": ["", "", "5,90€"]
+      },
+      {
+        "title": "Effilés de saumon fumé",
+        "description": "",
+        "prices": ["", "", "7,90€"]
+      },
+      {
+        "title": "Foie gras de canard entier mi-cuit IGP sud ouest",
         "description": "",
         "prices": ["", "", "8,90€"]
       },
       {
-        "title": "Assiette du pêcheur",
-        "description": "crevettes, bulots, saumon fumé sauce mayonnaise",
-        "prices": ["", "", "10,90€"]
-      },
-      {
-        "title": "Tomate mozzarella",
+        "title": "St Jacques en persillade",
         "description": "",
-        "prices": ["", "", "5,90€"]
+        "prices": ["", "", "8,90€"]
       }
     ]
   }

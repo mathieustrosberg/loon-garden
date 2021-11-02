@@ -6,7 +6,7 @@
       {
         "title": "Plat et dessert",
         "description": "Jambon grillé / café ou thé accompagné d’une gourmandise",
-        "prices": ["", "", "8,50€"]
+        "prices": ["", "", "8,90€"]
       }
     ]
   },
@@ -15,28 +15,28 @@
     "quantities": ["", "", ""],
     "product": [
       {
-        "title": "entrée, plat et dessert",
-        "description": "",
-        "prices": ["", "", "15,50€"]
-      },
-      {
         "title": "plat et dessert",
         "description": "",
-        "prices": ["", "", "10,95€"]
+        "prices": ["", "", "11,50€"]
+      },
+      {
+        "title": "entrée, plat et dessert",
+        "description": "",
+        "prices": ["", "", "15,90€"]
       },
       {
         "title": "",
-        "description": "entrée au choix: tomate mozzarella / rillettes ou terrine de poisson",
+        "description": "Entrée au choix: assiette de charcuterie / hareng fumé",
         "prices": ["", "", ""]
       },
       {
         "title": "",
-        "description": "Plat au choix: filet de poulet roti/ tagliatelles aux légumes ou plat du jour",
+        "description": "Plat au choix: steak haché façon bouchère / pennes forestière / steak végétarien / plat du jour",
         "prices": ["", "", ""]
       },
       {
         "title": "",
-        "description": "dessert au choix: glace 2 boules / mousse au chocolat / coupe glacée façon stracciatella / fromage blanc et son coulis / dessert du jour",
+        "description": "dessert au choix: glace 2 boules / mousse au chocolat / coupe glacée bounty / fromage blanc et son coulis / dessert du jour",
         "prices": ["", "", ""]
       }
     ]
@@ -46,14 +46,9 @@
     "quantities": ["", "", ""],
     "product": [
       {
-        "title": "entrée, plat et dessert",
-        "description": "",
-        "prices": ["", "", "19,90€"]
-      },
-      {
         "title": "entrée, plat",
         "description": "",
-        "prices": ["", "", "16,90€"]
+        "prices": ["", "", "17,40€"]
       },
       {
         "title": "plat et dessert",
@@ -61,18 +56,23 @@
         "prices": ["", "", "16,90€"]
       },
       {
+        "title": "entrée, plat et dessert",
+        "description": "",
+        "prices": ["", "", "19,90€"]
+      },
+      {
         "title": "",
-        "description": "entrée au choix: petite salade caesar / toast de chèvre / assiette de bulots et crevettes / fois gras suppl. 3€",
+        "description": "entrée au choix: petite salade paysanne / assiette de charcuterie / assiette de surimi et crevettes / fois gras suppl. 3€",
         "prices": ["", "", ""]
       },
       {
         "title": "",
-        "description": "plat au choix: bavette d’aloyaux maturée / demi magret de canard / la pêche du jour / classique burger suppl. 3€",
+        "description": "plat au choix: bavette d’aloyaux maturée / andouilette / pavé de saumon / émincé de poulet maroille suppl. 2,50€",
         "prices": ["", "", ""]
       },
       {
         "title": "",
-        "description": "dessert au choix: duo de fromage / crème brulée à la vanille bourbon / glace 3 boules / tiramisu / coupe de fruits frais / autre dessert à la carte, suppl 2€ hors hot coffee",
+        "description": "dessert au choix: duo de fromage / crème brulée à la vanille bourbon / glace 3 boules / coupe loon-garden / chti'ramisu / autre dessert à la carte, suppl 2€ hors hot coffee",
         "prices": ["", "", ""]
       }
     ]
@@ -84,21 +84,21 @@
       {
         "title": "plat et dessert",
         "description": "",
-        "prices": ["", "", "4,95€"]
+        "prices": ["", "", "5,50€"]
       },
       {
         "title": "",
-        "description": "plat au choix: burger / aiguillettes de poulet corn flakes / aiguillette de fish",
+        "description": "plat au choix: burger / aiguillettes de poulet corn flakes / saucisse",
         "prices": ["", "", ""]
       },
       {
         "title": "",
-        "description": "dessert au  choix: pompote / glace et ses bonbons (fraises, smarties, brisure de biscuit oréo) / cookie au 3 chocolats",
+        "description": "dessert au  choix: pompote / glace loon-kids / cookie 3 chocolats / mousse au chocolat",
         "prices": ["", "", ""]
       },
       {
         "title": ["", "", ""],
-        "description": "supp. boisson (1,50€) coca 25cl / oasis 25cl / diabolo 25cl / sirop à l’eau",
+        "description": "supp. boisson (1,50€) coca 25cl / capri-sun orange ou multivitaminé / diabolo 25cl / sirop à l’eau",
         "prices": ["", "", ""]
       }
     ]
